@@ -12,9 +12,9 @@
     "declaration": false,
     "downlevelIteration": true,
     "paths": {
-      "ng-glass": [
-        "dist/ng-glass/ng-glass",
-        "dist/ng-glass"
+      "angular-glass": [
+        "dist/angular-glass/angular-glass",
+        "dist/angular-glass"
       ]
     },
     "experimentalDecorators": true,

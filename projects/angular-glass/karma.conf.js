@@ -25,7 +25,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, '../../coverage/ng-glass'),
+      dir: require('path').join(__dirname, '../../coverage/angular-glass'),
       subdir: '.',
       reporters: [
         { type: 'html' },

@@ -3,3 +3,4 @@
  */
 
 export * from './lib/as-glass.directive';
+export * from './lib/glass/glass.module';

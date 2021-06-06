@@ -36,5 +36,11 @@
     "karma-jasmine-html-reporter": "^1.5.0",
     "ng-packagr": "^12.0.0",
     "typescript": "~4.2.3"
-  }
+  },
+  "keywords":[
+    "Angular",
+    "GlassMorphism",
+    "Glass",
+    "glassmorphism"
+  ]
 }

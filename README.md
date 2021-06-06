@@ -10,7 +10,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 | Property     	| Default Value 	| Permitted Values         	|
 |--------------	|---------------	|--------------------------	|
-| blur         	| 4             	| any integer from 0-20                     	|
+| blur         	| 4             	| any integer from 0-20     |
 | opacity      	| 0.25          	| 0-1                      	|
 | borderRadius 	| 10            	| any positive number      	|
 | showOutline  	| true          	| boolean                  	|

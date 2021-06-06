@@ -61,4 +61,6 @@ export class AppModule { }
 
 ## Sample Images
 
-[a relative link](../../samples/Abstract%20Shape.png)
+![Tinted Abstract background](https://user-images.githubusercontent.com/45912002/120915737-22d15a80-c6c3-11eb-8eb2-5872c745533d.png)
+![Abstract Shape](https://user-images.githubusercontent.com/45912002/120915748-2b299580-c6c3-11eb-9fdf-1382daff1198.png)
+![Login Screen](https://user-images.githubusercontent.com/45912002/120915756-2f55b300-c6c3-11eb-924f-742498251592.png)
